@@ -1,0 +1,4 @@
+MathCryptoOmura
+===============
+
+Omura's scheme
